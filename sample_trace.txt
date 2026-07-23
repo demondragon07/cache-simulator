@@ -1,0 +1,12 @@
+10 Read
+20 Read
+30 Read
+10 Write
+40 Read
+50 Read
+20 Write
+10 Read
+30 Read
+60 Write
+70 Read
+10 Read
